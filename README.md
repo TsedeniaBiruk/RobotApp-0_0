@@ -1,21 +1,47 @@
-# 🤖 RobotApp-0_0
-Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support families with basic tasks in their household. This repo displays interview question/ requirements for 4 different receipes.
+# RobotApp-0_0
 
 ## Recipes:
-### A Tuna Sandwich
+# A Tuna Sandwich
 1.What type of bread are you using?
 2.What condiments would you like to add?
 3.Do you like the sandwhich without the crust?
-4.What is the ratio of tuna added compared to other toppings?
-5.What kind of sauces are you the sandwhich in?
-6.Do you like your bread toasted?
-7.What type of seasoning would you like?
-8.Do you like chunk-light or albacore white tuna?
-9.How much mayo would you like to add in?
-10.What type of cheese do you want to add?
+4.What is the ratio of tuna added compared to other ingredients?
+5.
+6.
+7.
+8.
+9.
+10.
 
 
-### Chicken Soup
+# Chicken Soup
+1.What are some of your favorite ingredients to add to chicken soup?
+2.What herbs and spices do you like to use when making chicken soup?
+3.What type of chicken do you use when making chicken soup?
+4.How do you thicken chicken soup?
+5.Do you prefer to make chicken soup with chicken broth or stock?
+6.Do you prefer to make chicken soup with fresh or canned vegetables?
+7.Do you prefer to make chicken soup with noodles or rice?
+8.What is your favorite way to serve chicken soup?
+9.Do you prefer to make chicken soup with a whole chicken or boneless chicken?
+10.Do you have any tips for making a creamy chicken soup?
+11.Do you have any special tips for making a flavorful chicken soup?
+
+
+# Chili and Rice
+1. What type of chili do you serve?
+2. Is the rice plain or seasoned?
+3. What types of toppings are available?
+4. Is the chili vegetarian friendly?
+5. Is the chili gluten-free?
+6. Is there a vegan version of the chili available?
+7. Are there any additional sides available?
+8. How spicy is the chili?
+9. Is there a way to customize the chili and rice?
+10. Does the chili contain any meat or dairy products?
+
+
+# Chef Salad
 1.
 2.
 3.
@@ -26,31 +52,3 @@ Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support famil
 8.
 9.
 10.
-
-
-### Chili and Rice
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-
-### Chef Salad
-1. What is the serving size of this salad?
-2. What type of meat would you like? (Ham, Turkey, Chicken, Tofu, None)
-3. What type of vegetables would you like? (Tomato, Cucumber)
-4. How would you like your veggies cut? (Diced, Chopped, Sliced)
-5. What type of cheese would you like? (Swiss, American, Ceddar, Provolone) 
-6. Would you like to add any extra toppings? (Bacon, Avocacdo, Cheddar, Croutons)
-7. What type of dressing would you like? (Ranch, Blue Cheese, Vinaigrette)
-8. Add anchovies? (Y/N)
-9. Would you like your ingredients served chilled or room temp?
-10. Would you like your ingredients tossed or presented as is?
-
-
-[Github link](https://github.com/ebelbell/RobotApp-0_0)
