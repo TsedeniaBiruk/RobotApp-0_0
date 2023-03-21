@@ -16,16 +16,16 @@ Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support famil
 
 
 ### Chicken Soup
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+What type of stock is used in your chicken soup?
+2. Is your chicken soup made with organic ingredients?
+3. What herbs and spices are used in your chicken soup?
+4. Is your chicken soup gluten-free?
+5. Is your chicken soup vegetarian-friendly?
+6. How many calories are in a serving of your chicken soup?
+7. Is your chicken soup dairy-free?
+8. Is your chicken soup made with MSG?
+9. What type of chicken is used in your chicken soup?
+10. How long does it take to prepare your chicken soup?
 
 
 ### Chili and Rice
